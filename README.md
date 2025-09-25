@@ -57,4 +57,5 @@ The system is fully **menu-driven** using `switch-case`, so the user chooses ope
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   [git clone https://github.com/your-username/library-management-system.git](https://github.com/keyurpandav08/Library-record-mgmt-cli/tree/main)
+
